@@ -1,0 +1,28 @@
+html {
+    font-family: "Fira Code";
+}
+
+#map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#map {
+    width: 90%;
+    height: 30rem;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin: 2rem auto;
+}
+
+button {
+    font-family: "Fira Code";
+}
